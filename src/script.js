@@ -1,4 +1,6 @@
 // index.html을 열어서 agoraStatesDiscussions 배열 요소를 확인하세요.
+
+const agoraStatesDiscussions = require("./data.js").agoraStatesDiscussions;
 require("./style.css");
 
 let data;
