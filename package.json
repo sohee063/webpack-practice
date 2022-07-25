@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/sohee063/fe-sprint-my-agora-states-reference/issues"
   },
-  "homepage": "https://github.com/sohee063/fe-sprint-my-agora-states-reference#readme",
+  "homepage": "http://sohee063.github.io/webpack-practice",
   "devDependencies": {
     "css-loader": "^6.7.1",
     "gh-pages": "^4.0.0",
